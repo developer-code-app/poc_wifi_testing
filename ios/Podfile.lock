@@ -1,0 +1,40 @@
+PODS:
+  - Flutter (1.0.0)
+  - plugin_wifi_connect (0.0.1):
+    - Flutter
+  - wifi_connector (0.0.1):
+    - Flutter
+  - wifi_iot (0.0.1):
+    - Flutter
+  - wifi_scan (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - plugin_wifi_connect (from `.symlinks/plugins/plugin_wifi_connect/ios`)
+  - wifi_connector (from `.symlinks/plugins/wifi_connector/ios`)
+  - wifi_iot (from `.symlinks/plugins/wifi_iot/ios`)
+  - wifi_scan (from `.symlinks/plugins/wifi_scan/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  plugin_wifi_connect:
+    :path: ".symlinks/plugins/plugin_wifi_connect/ios"
+  wifi_connector:
+    :path: ".symlinks/plugins/wifi_connector/ios"
+  wifi_iot:
+    :path: ".symlinks/plugins/wifi_iot/ios"
+  wifi_scan:
+    :path: ".symlinks/plugins/wifi_scan/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  plugin_wifi_connect: 493c58208e3cea484d9f4e84159c1a96eca36aa9
+  wifi_connector: aa1fed85d30fbe52eb39d1aefe761a36032a581f
+  wifi_iot: b5aafd6f9b52f8a357383a1deabab45f31cd602d
+  wifi_scan: 6d20b3b4f59bbad1ddcf3e241560f3acd62f6cbe
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.12.1
